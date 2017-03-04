@@ -30,7 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<!--Slider-->
 			<img src="<?php echo base_url(); ?>assets/images/default_profile.jpg" alt="profile pic" class="img-responsive profile-pic">
 					<h2>I'M Omkar Kshirsagar</h2>
-					<span>&lt;?php echo "PHP DEVELOPER"; ?&gt;</span>
+					<span>Sr. Software Engineer</span>
 				<!--
 				<div class="callbacks_container">
 					
@@ -63,11 +63,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				-->
 		<!--//Slider-->
 					<ul class="top-links" style="margin-top: 50px;">
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-								</ul>
+						<li><a href="https://www.facebook.com/omkar.kshirsagar.9212" target="_blank"><i class="fa fa-facebook"></i></a></li>
+						<!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
+						<li><a href="https://www.linkedin.com/in/omkar-kshirsagar-184b7384/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+						<!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
+					</ul>
 	</div>
 <!-- //banner -->
 	</div>
@@ -84,7 +84,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<span class="icon-bar"></span>
 				  </button>
 					<div class="logo">
-						<h1><a class="navbar-brand" href="index.html">omkar.website</a></h1>
+						<h1><a class="navbar-brand" href="/profile">My Profile</a></h1>
 					</div>
 				</div>
 
@@ -121,15 +121,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col-md-7 w3ls-agile-left">
 					<div class="w3ls-agile-left-info">
 						<h4>Job Title</h4>
-						<p>PHP Developer</p>
+						<p>Sr. Software Engineer</p>
 					</div>
 					<div class="w3ls-agile-left-info">
 						<h4>Name</h4>
 						<p>Omkar Kshirsagar</p>
 					</div>
 					<div class="w3ls-agile-left-info">
-						<h4>Sex</h4>
-						<p>Male</p>
+						<h4>Sex / Age</h4>
+						<p>Male / 26</p>
 					</div>
 					<div class="w3ls-agile-left-info">
 						<h4>Address</h4>
@@ -278,12 +278,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 	    <div class="col-md-6 education-w3l">
 		     <h3 class="w3l_head three">My Experience</h3>
-			 <h3 class="w3l_head three total-exp">2 Years 8 months</h3>
+			 <h3 class="w3l_head three total-exp">2 Years 10 months</h3>
 			  <div class="education-agile-grids">
 				 <div class="education-agile-w3l">
 				     <div class="education-agile-w3l-year">
 					       <h4>2017</h4>
-						   <h6>0 Months</h6>
+						   <h6>2 Months</h6>
 				     </div>
 					 <div class="education-agile-w3l-info">
 					       <h4>Sr. Software Engineer</h4>
